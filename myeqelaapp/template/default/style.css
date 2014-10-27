@@ -1,0 +1,26 @@
+
+/*
+ * Sample stylesheet / template for
+ * a Sympathy project.
+ */
+
+body {
+	background-image: url('/download2.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-font:verdana;
+}
+
+p {
+	text-font:ariel:
+}
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
